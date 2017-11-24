@@ -1,0 +1,10 @@
+c:\users\andrei\documents\visual studio 2015\Projects\ConsoleREST1\ConsoleREST1\bin\Debug\ConsoleREST1.exe.config
+c:\users\andrei\documents\visual studio 2015\Projects\ConsoleREST1\ConsoleREST1\bin\Debug\ConsoleREST1.exe
+c:\users\andrei\documents\visual studio 2015\Projects\ConsoleREST1\ConsoleREST1\bin\Debug\ConsoleREST1.pdb
+c:\users\andrei\documents\visual studio 2015\Projects\ConsoleREST1\ConsoleREST1\bin\Debug\Newtonsoft.Json.dll
+c:\users\andrei\documents\visual studio 2015\Projects\ConsoleREST1\ConsoleREST1\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\andrei\documents\visual studio 2015\Projects\ConsoleREST1\ConsoleREST1\bin\Debug\Newtonsoft.Json.xml
+c:\users\andrei\documents\visual studio 2015\Projects\ConsoleREST1\ConsoleREST1\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\andrei\documents\visual studio 2015\Projects\ConsoleREST1\ConsoleREST1\obj\Debug\ConsoleREST1.csprojResolveAssemblyReference.cache
+c:\users\andrei\documents\visual studio 2015\Projects\ConsoleREST1\ConsoleREST1\obj\Debug\ConsoleREST1.exe
+c:\users\andrei\documents\visual studio 2015\Projects\ConsoleREST1\ConsoleREST1\obj\Debug\ConsoleREST1.pdb

@@ -1,0 +1,14 @@
+<div class="table-responsive">
+  <table class="table table-hover">
+    <thead>
+      <tr>
+        <th>Berarii</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor='let brewery of breweries._links.brewery'>
+        <td>{{getBrewery(brewery.href)}}</td>        
+      </tr>
+    </tbody>
+  </table>
+</div>

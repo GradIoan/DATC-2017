@@ -1,0 +1,9 @@
+c:\users\cristian vladoescu\source\repos\Tema1DATC_CristianVladoescu\Tema1DATC_CristianVladoescu\bin\Debug\Tema1DATC_CristianVladoescu.exe.config
+c:\users\cristian vladoescu\source\repos\Tema1DATC_CristianVladoescu\Tema1DATC_CristianVladoescu\bin\Debug\Tema1DATC_CristianVladoescu.exe
+c:\users\cristian vladoescu\source\repos\Tema1DATC_CristianVladoescu\Tema1DATC_CristianVladoescu\bin\Debug\Tema1DATC_CristianVladoescu.pdb
+c:\users\cristian vladoescu\source\repos\Tema1DATC_CristianVladoescu\Tema1DATC_CristianVladoescu\bin\Debug\Newtonsoft.Json.dll
+c:\users\cristian vladoescu\source\repos\Tema1DATC_CristianVladoescu\Tema1DATC_CristianVladoescu\bin\Debug\Newtonsoft.Json.xml
+c:\users\cristian vladoescu\source\repos\Tema1DATC_CristianVladoescu\Tema1DATC_CristianVladoescu\obj\Debug\Tema1DATC_CristianVladoescu.csprojResolveAssemblyReference.cache
+c:\users\cristian vladoescu\source\repos\Tema1DATC_CristianVladoescu\Tema1DATC_CristianVladoescu\obj\Debug\Tema1DATC_CristianVladoescu.csproj.CoreCompileInputs.cache
+c:\users\cristian vladoescu\source\repos\Tema1DATC_CristianVladoescu\Tema1DATC_CristianVladoescu\obj\Debug\Tema1DATC_CristianVladoescu.exe
+c:\users\cristian vladoescu\source\repos\Tema1DATC_CristianVladoescu\Tema1DATC_CristianVladoescu\obj\Debug\Tema1DATC_CristianVladoescu.pdb

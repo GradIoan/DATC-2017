@@ -1,0 +1,10 @@
+C:\Users\Dani\Downloads\DATC-fara Git\Tema 1\Exemplu pt T1\Hal.Client\Hal.Client\bin\Debug\Hal.Client.exe.config
+C:\Users\Dani\Downloads\DATC-fara Git\Tema 1\Exemplu pt T1\Hal.Client\Hal.Client\bin\Debug\Hal.Client.exe
+C:\Users\Dani\Downloads\DATC-fara Git\Tema 1\Exemplu pt T1\Hal.Client\Hal.Client\bin\Debug\Hal.Client.pdb
+C:\Users\Dani\Downloads\DATC-fara Git\Tema 1\Exemplu pt T1\Hal.Client\Hal.Client\obj\Debug\Hal.Client.exe
+C:\Users\Dani\Downloads\DATC-fara Git\Tema 1\Exemplu pt T1\Hal.Client\Hal.Client\obj\Debug\Hal.Client.pdb
+C:\Users\Dani\Downloads\DATC-fara Git\Tema 1\Exemplu pt T1\Hal.Client\Hal.Client\bin\Debug\Json.dll
+C:\Users\Dani\Downloads\DATC-fara Git\Tema 1\Exemplu pt T1\Hal.Client\Hal.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dani\Downloads\DATC-fara Git\Tema 1\Exemplu pt T1\Hal.Client\Hal.Client\bin\Debug\Json.pdb
+C:\Users\Dani\Downloads\DATC-fara Git\Tema 1\Exemplu pt T1\Hal.Client\Hal.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dani\Downloads\DATC-fara Git\Tema 1\Exemplu pt T1\Hal.Client\Hal.Client\obj\Debug\Hal.Client.csprojResolveAssemblyReference.cache

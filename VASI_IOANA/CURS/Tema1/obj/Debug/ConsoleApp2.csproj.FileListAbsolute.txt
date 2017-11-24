@@ -1,0 +1,26 @@
+c:\users\bianca\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+c:\users\bianca\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+c:\users\bianca\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+c:\users\bianca\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+c:\users\bianca\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+c:\users\bianca\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+c:\users\bianca\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+c:\users\bianca\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Ioana\Desktop\Hal.Client IO\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Ioana\Desktop\Hal.Client IO\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Ioana\Desktop\Hal.Client IO\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Ioana\Desktop\Hal.Client IO\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ioana\Desktop\Hal.Client IO\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ioana\Desktop\Hal.Client IO\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Ioana\Desktop\Hal.Client IO\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Ioana\Desktop\Hal.Client IO\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Ioana\Desktop\Hal.Client IO\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\Ioana\Desktop\Hal.Client IO - Copy\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Ioana\Desktop\Hal.Client IO - Copy\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Ioana\Desktop\Hal.Client IO - Copy\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Ioana\Desktop\Hal.Client IO - Copy\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ioana\Desktop\Hal.Client IO - Copy\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ioana\Desktop\Hal.Client IO - Copy\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\Ioana\Desktop\Hal.Client IO - Copy\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Ioana\Desktop\Hal.Client IO - Copy\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Ioana\Desktop\Hal.Client IO - Copy\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

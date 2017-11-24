@@ -1,0 +1,48 @@
+C:\Users\Adi\Desktop\Hal.Client\Hal.Client\bin\Debug\Hal.Client.exe.config
+C:\Users\Adi\Desktop\Hal.Client\Hal.Client\bin\Debug\Hal.Client.exe
+C:\Users\Adi\Desktop\Hal.Client\Hal.Client\bin\Debug\Hal.Client.pdb
+C:\Users\Adi\Desktop\Hal.Client\Hal.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adi\Desktop\Hal.Client\Hal.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adi\Desktop\Hal.Client\Hal.Client\obj\Debug\Hal.Client.csprojResolveAssemblyReference.cache
+C:\Users\Adi\Desktop\Hal.Client\Hal.Client\obj\Debug\Hal.Client.exe
+C:\Users\Adi\Desktop\Hal.Client\Hal.Client\obj\Debug\Hal.Client.pdb
+C:\Users\Adi\Desktop\Hal.Client\Hal.Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Adi\Desktop\Hal.Client\Hal.Client\bin\Debug\WebApi.Hal.dll
+C:\Users\Adi\Desktop\Hal.Client\Hal.Client\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Adi\Desktop\Hal.Client\Hal.Client\bin\Debug\WebApi.Hal.pdb
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\adi\progress\Hal.Client\Hal.Client\bin\Debug\Hal.Client.exe.config
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\adi\progress\Hal.Client\Hal.Client\obj\Debug\Hal.Client.exe
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\adi\progress\Hal.Client\Hal.Client\obj\Debug\Hal.Client.pdb
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\adi\progress\Hal.Client\Hal.Client\bin\Debug\Hal.Client.exe
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\adi\progress\Hal.Client\Hal.Client\bin\Debug\Hal.Client.pdb
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\adi\progress\Hal.Client\Hal.Client\bin\Debug\Newtonsoft.Json.dll
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\adi\progress\Hal.Client\Hal.Client\bin\Debug\System.Net.Http.Formatting.dll
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\adi\progress\Hal.Client\Hal.Client\bin\Debug\WebApi.Hal.dll
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\adi\progress\Hal.Client\Hal.Client\bin\Debug\Newtonsoft.Json.xml
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\adi\progress\Hal.Client\Hal.Client\bin\Debug\System.Net.Http.Formatting.xml
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\adi\progress\Hal.Client\Hal.Client\bin\Debug\WebApi.Hal.pdb
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\adi\progress\Hal.Client\Hal.Client\obj\Debug\Hal.Client.csprojResolveAssemblyReference.cache
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\tema\progres\Hal.Client\Hal.Client\bin\Debug\Hal.Client.exe.config
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\tema\progres\Hal.Client\Hal.Client\obj\Debug\Hal.Client.exe
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\tema\progres\Hal.Client\Hal.Client\obj\Debug\Hal.Client.pdb
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\tema\progres\Hal.Client\Hal.Client\bin\Debug\Hal.Client.exe
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\tema\progres\Hal.Client\Hal.Client\bin\Debug\Hal.Client.pdb
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\tema\progres\Hal.Client\Hal.Client\bin\Debug\Newtonsoft.Json.dll
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\tema\progres\Hal.Client\Hal.Client\bin\Debug\System.Net.Http.Formatting.dll
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\tema\progres\Hal.Client\Hal.Client\bin\Debug\WebApi.Hal.dll
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\tema\progres\Hal.Client\Hal.Client\bin\Debug\Newtonsoft.Json.xml
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\tema\progres\Hal.Client\Hal.Client\bin\Debug\System.Net.Http.Formatting.xml
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\tema\progres\Hal.Client\Hal.Client\bin\Debug\WebApi.Hal.pdb
+D:\cursuri an 4 (2017-2018)\semestrul 1\DATC\tema1\tema\progres\Hal.Client\Hal.Client\obj\Debug\Hal.Client.csprojResolveAssemblyReference.cache
+D:\Git\DATC-2017\Zgripcea Alina\Curs\Tema1\Hal.Client\Hal.Client\bin\Debug\Hal.Client.exe.config
+D:\Git\DATC-2017\Zgripcea Alina\Curs\Tema1\Hal.Client\Hal.Client\obj\Debug\Hal.Client.exe
+D:\Git\DATC-2017\Zgripcea Alina\Curs\Tema1\Hal.Client\Hal.Client\obj\Debug\Hal.Client.pdb
+D:\Git\DATC-2017\Zgripcea Alina\Curs\Tema1\Hal.Client\Hal.Client\bin\Debug\Hal.Client.exe
+D:\Git\DATC-2017\Zgripcea Alina\Curs\Tema1\Hal.Client\Hal.Client\bin\Debug\Hal.Client.pdb
+D:\Git\DATC-2017\Zgripcea Alina\Curs\Tema1\Hal.Client\Hal.Client\bin\Debug\Newtonsoft.Json.dll
+D:\Git\DATC-2017\Zgripcea Alina\Curs\Tema1\Hal.Client\Hal.Client\bin\Debug\System.Net.Http.Formatting.dll
+D:\Git\DATC-2017\Zgripcea Alina\Curs\Tema1\Hal.Client\Hal.Client\bin\Debug\WebApi.Hal.dll
+D:\Git\DATC-2017\Zgripcea Alina\Curs\Tema1\Hal.Client\Hal.Client\bin\Debug\Newtonsoft.Json.xml
+D:\Git\DATC-2017\Zgripcea Alina\Curs\Tema1\Hal.Client\Hal.Client\bin\Debug\System.Net.Http.Formatting.xml
+D:\Git\DATC-2017\Zgripcea Alina\Curs\Tema1\Hal.Client\Hal.Client\bin\Debug\WebApi.Hal.pdb
+D:\Git\DATC-2017\Zgripcea Alina\Curs\Tema1\Hal.Client\Hal.Client\obj\Debug\Hal.Client.csprojResolveAssemblyReference.cache

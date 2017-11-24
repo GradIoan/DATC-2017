@@ -1,0 +1,9 @@
+E:\VS_prj\TemaDATC\TemaDATC\bin\Debug\TemaDATC.exe.config
+E:\VS_prj\TemaDATC\TemaDATC\bin\Debug\TemaDATC.exe
+E:\VS_prj\TemaDATC\TemaDATC\bin\Debug\TemaDATC.pdb
+E:\VS_prj\TemaDATC\TemaDATC\bin\Debug\Newtonsoft.Json.dll
+E:\VS_prj\TemaDATC\TemaDATC\bin\Debug\Newtonsoft.Json.xml
+E:\VS_prj\TemaDATC\TemaDATC\obj\Debug\TemaDATC.csproj.CoreCompileInputs.cache
+E:\VS_prj\TemaDATC\TemaDATC\obj\Debug\TemaDATC.exe
+E:\VS_prj\TemaDATC\TemaDATC\obj\Debug\TemaDATC.pdb
+E:\VS_prj\TemaDATC\TemaDATC\obj\Debug\TemaDATC.csprojResolveAssemblyReference.cache

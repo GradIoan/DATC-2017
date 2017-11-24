@@ -1,0 +1,12 @@
+E:\Facultate\An4\DATC\TrutiuBiancaTema1\TrutiuBiancaTema1\obj\Debug\TrutiuBiancaTema1.csprojResolveAssemblyReference.cache
+E:\Facultate\An4\DATC\TrutiuBiancaTema1\TrutiuBiancaTema1\bin\Debug\TrutiuBiancaTema1.exe.config
+E:\Facultate\An4\DATC\TrutiuBiancaTema1\TrutiuBiancaTema1\bin\Debug\TrutiuBiancaTema1.exe
+E:\Facultate\An4\DATC\TrutiuBiancaTema1\TrutiuBiancaTema1\bin\Debug\TrutiuBiancaTema1.pdb
+E:\Facultate\An4\DATC\TrutiuBiancaTema1\TrutiuBiancaTema1\bin\Debug\Newtonsoft.Json.dll
+E:\Facultate\An4\DATC\TrutiuBiancaTema1\TrutiuBiancaTema1\bin\Debug\Newtonsoft.Json.xml
+E:\Facultate\An4\DATC\TrutiuBiancaTema1\TrutiuBiancaTema1\obj\Debug\TrutiuBiancaTema1.exe
+E:\Facultate\An4\DATC\TrutiuBiancaTema1\TrutiuBiancaTema1\obj\Debug\TrutiuBiancaTema1.pdb
+E:\Facultate\An4\DATC\TrutiuBiancaTema1\TrutiuBiancaTema1\bin\Debug\System.Net.Http.Formatting.dll
+E:\Facultate\An4\DATC\TrutiuBiancaTema1\TrutiuBiancaTema1\bin\Debug\System.Web.Http.dll
+E:\Facultate\An4\DATC\TrutiuBiancaTema1\TrutiuBiancaTema1\bin\Debug\System.Net.Http.Formatting.xml
+E:\Facultate\An4\DATC\TrutiuBiancaTema1\TrutiuBiancaTema1\bin\Debug\System.Web.Http.xml

@@ -1,0 +1,9 @@
+D:\01_Facultate\07_Sem VII\03_DATC\rest_API_DATC\rest_API_DATC\bin\Debug\rest_API_DATC.exe.config
+D:\01_Facultate\07_Sem VII\03_DATC\rest_API_DATC\rest_API_DATC\bin\Debug\rest_API_DATC.exe
+D:\01_Facultate\07_Sem VII\03_DATC\rest_API_DATC\rest_API_DATC\bin\Debug\rest_API_DATC.pdb
+D:\01_Facultate\07_Sem VII\03_DATC\rest_API_DATC\rest_API_DATC\obj\Debug\rest_API_DATC.csprojResolveAssemblyReference.cache
+D:\01_Facultate\07_Sem VII\03_DATC\rest_API_DATC\rest_API_DATC\obj\Debug\rest_API_DATC.Form1.resources
+D:\01_Facultate\07_Sem VII\03_DATC\rest_API_DATC\rest_API_DATC\obj\Debug\rest_API_DATC.Properties.Resources.resources
+D:\01_Facultate\07_Sem VII\03_DATC\rest_API_DATC\rest_API_DATC\obj\Debug\rest_API_DATC.csproj.GenerateResource.Cache
+D:\01_Facultate\07_Sem VII\03_DATC\rest_API_DATC\rest_API_DATC\obj\Debug\rest_API_DATC.exe
+D:\01_Facultate\07_Sem VII\03_DATC\rest_API_DATC\rest_API_DATC\obj\Debug\rest_API_DATC.pdb

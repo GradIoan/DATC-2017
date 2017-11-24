@@ -1,0 +1,80 @@
+Private Sub CommandButton1_Click()
+
+Dim iRow As Long
+Dim ws As Worksheet
+Set ws = Worksheets("Sheet3")
+
+'find first empty row in database
+iRow = ws.Cells.Find(What:="*", SearchOrder:=xlRows, _
+    SearchDirection:=xlPrevious, LookIn:=xlValues).Row + 1
+
+'check for a Name number
+If Trim(Me.cmbName.Value) = "" Then
+ Me.cmbName.SetFocus
+ MsgBox "Please complete the name box"
+  Exit Sub
+End If
+
+'copy the data to the database
+ws.Cells(iRow, 1).Value = MonthView1.Value
+ws.Cells(iRow, 2).Value = Me.cmbName.Value
+ws.Cells(iRow, 3).Value = Me.tbTrainer.Value
+ws.Cells(iRow, 4).Value = Me.tbTraining.Value
+
+MsgBox "Data added", vbOKOnly + vbInformation, "Data Added"
+'clear the data
+Me.tbData.Value = ""
+Me.cmbName.Value = ""
+Me.tbTrainer.Value = ""
+Me.tbTraining.Value = ""
+'Me.textbox_name.SetFocus
+
+End Sub
+
+Private Sub CommandButton2_Click()
+Unload Me
+End Sub
+
+Private Sub CommandButton3_Click()
+
+'Sheets("Sheet3").Cells(Rows.Count, 1).End(xlUp).EntireRow.Delete
+Dim Answer As String
+Dim MyNote As String
+ 
+    'Place your text here
+    MyNote = "Do you agree?"
+ 
+    'Display MessageBox
+    Answer = MsgBox(MyNote, vbQuestion + vbYesNo, "???")
+ 
+    If Answer = vbNo Then
+        'Code for No button Press
+        MsgBox "You pressed NO!"
+    Else
+        'Code for Yes button Press
+        MsgBox "Last row deleted"
+        Sheets("Sheet3").Cells(Rows.Count, "A").End(xlUp).EntireRow.Delete
+  End If
+  
+End Sub
+
+
+
+
+Private Sub MonthView1_DateClick(ByVal DateClicked As Date)
+   'Set DATA
+tbData = MonthView1.Value
+End Sub
+
+
+
+
+
+Private Sub UserForm_Initialize()
+
+
+'fill combobox
+For Each blah In [listaa]
+    Me.cmbName.AddItem blah
+Next blah
+End Sub

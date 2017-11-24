@@ -1,0 +1,17 @@
+c:\users\remus trancau\source\repos\Datct1\Datct1\bin\Debug\Datct1.exe.config
+c:\users\remus trancau\source\repos\Datct1\Datct1\bin\Debug\Datct1.exe
+c:\users\remus trancau\source\repos\Datct1\Datct1\bin\Debug\Datct1.pdb
+c:\users\remus trancau\source\repos\Datct1\Datct1\bin\Debug\System.Net.Http.dll
+c:\users\remus trancau\source\repos\Datct1\Datct1\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\remus trancau\source\repos\Datct1\Datct1\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\remus trancau\source\repos\Datct1\Datct1\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\remus trancau\source\repos\Datct1\Datct1\bin\Debug\System.Net.Http.WebRequest.dll
+c:\users\remus trancau\source\repos\Datct1\Datct1\bin\Debug\Newtonsoft.Json.dll
+c:\users\remus trancau\source\repos\Datct1\Datct1\bin\Debug\System.Net.Http.xml
+c:\users\remus trancau\source\repos\Datct1\Datct1\bin\Debug\System.Net.Http.WebRequest.xml
+c:\users\remus trancau\source\repos\Datct1\Datct1\obj\Debug\Datct1.csprojResolveAssemblyReference.cache
+c:\users\remus trancau\source\repos\Datct1\Datct1\obj\Debug\Datct1.csproj.CoreCompileInputs.cache
+c:\users\remus trancau\source\repos\Datct1\Datct1\obj\Debug\Datct1.exe
+c:\users\remus trancau\source\repos\Datct1\Datct1\obj\Debug\Datct1.pdb
+c:\users\remus trancau\source\repos\Datct1\Datct1\bin\Debug\Vse.Web.Serialization.dll
+c:\users\remus trancau\source\repos\Datct1\Datct1\bin\Debug\Vse.Web.Serialization.pdb

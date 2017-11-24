@@ -1,0 +1,10 @@
+C:\Users\Bianca\Documents\DATC\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Bianca\Documents\DATC\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Bianca\Documents\DATC\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Bianca\Documents\DATC\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Bianca\Documents\DATC\ConsoleApp\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bianca\Documents\DATC\ConsoleApp\ConsoleApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Bianca\Documents\DATC\ConsoleApp\ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bianca\Documents\DATC\ConsoleApp\ConsoleApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Bianca\Documents\DATC\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Bianca\Documents\DATC\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
