@@ -1,0 +1,54 @@
+﻿@model List<AlbumPhoto.Models.Poza>
+
+@{
+    ViewBag.Title = "Album Foto";
+}
+
+<h2 class="title">@ViewBag.Title</h2>
+
+<div class="action-bar">
+    @using (Html.BeginForm("IncarcaPoza", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <input type="file" name="file" />
+        <input type="submit" value="Incarca" />
+    }
+</div>
+@foreach (var poza in Model)
+{
+    <div class="poza">
+        <div class="thumbnail">
+            @if (!string.IsNullOrWhiteSpace(poza.ThumbnailUrl))
+            {
+                <img src="@poza.ThumbnailUrl"/>
+            }
+            else
+            {
+                <span>no thumbnail</span>
+            }
+        </div>
+        <div class="details">
+            <h3 class="description">@poza.Description</h3>
+
+            @if(!string.IsNullOrWhiteSpace(poza.ThumbnailUrl))
+            {
+                <a href="@poza.ThumbnailUrl">Descarca</a>
+                using (Html.BeginForm("AddComments", "Home", FormMethod.Post))
+                {
+                    <p>
+                        User: @Html.TextBox("txtUserName")
+                        Comentariu: @Html.TextBox("txtComment")
+                        <input type="submit" value="Adauga" />
+                        <input type="hidden" name="picName" value="@poza.PictureName"/> <!-- this cannot be seen. It's used to take picture name for adding comment-->
+                    </p>
+                }
+                <a href="@Url.Action("ViewComments", "Home",new { pictureName = poza.PictureName })">Vezualizeaza comentariile</a><p></p>
+                <a href="@Url.Action("GetLink", "Home",new { pictureName = poza.PictureName })">Generează link activ 2h</a>
+            }
+            else
+            {
+                <span>no download URL</span>
+            }
+            
+        </div>
+    </div>
+}
