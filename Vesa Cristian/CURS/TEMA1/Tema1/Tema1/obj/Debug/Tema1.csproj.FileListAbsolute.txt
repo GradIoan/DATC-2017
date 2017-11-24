@@ -1,8 +1,0 @@
-D:\Anul4\DATC\Tema1\Tema_1\Tema1\Tema1\bin\Debug\Tema1.exe.config
-D:\Anul4\DATC\Tema1\Tema_1\Tema1\Tema1\bin\Debug\Tema1.exe
-D:\Anul4\DATC\Tema1\Tema_1\Tema1\Tema1\bin\Debug\Tema1.pdb
-D:\Anul4\DATC\Tema1\Tema_1\Tema1\Tema1\bin\Debug\Newtonsoft.Json.dll
-D:\Anul4\DATC\Tema1\Tema_1\Tema1\Tema1\bin\Debug\Newtonsoft.Json.xml
-D:\Anul4\DATC\Tema1\Tema_1\Tema1\Tema1\obj\Debug\Tema1.csprojResolveAssemblyReference.cache
-D:\Anul4\DATC\Tema1\Tema_1\Tema1\Tema1\obj\Debug\Tema1.exe
-D:\Anul4\DATC\Tema1\Tema_1\Tema1\Tema1\obj\Debug\Tema1.pdb

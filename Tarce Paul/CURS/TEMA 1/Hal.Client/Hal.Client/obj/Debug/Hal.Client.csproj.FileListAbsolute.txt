@@ -1,8 +1,0 @@
-D:\cursuri\An4\DATC\CURS\Curs1\Hal.Client\Hal.Client\bin\Debug\Hal.Client.exe.config
-D:\cursuri\An4\DATC\CURS\Curs1\Hal.Client\Hal.Client\bin\Debug\Hal.Client.exe
-D:\cursuri\An4\DATC\CURS\Curs1\Hal.Client\Hal.Client\bin\Debug\Hal.Client.pdb
-D:\cursuri\An4\DATC\CURS\Curs1\Hal.Client\Hal.Client\bin\Debug\Newtonsoft.Json.dll
-D:\cursuri\An4\DATC\CURS\Curs1\Hal.Client\Hal.Client\bin\Debug\Newtonsoft.Json.xml
-D:\cursuri\An4\DATC\CURS\Curs1\Hal.Client\Hal.Client\obj\Debug\Hal.Client.csprojResolveAssemblyReference.cache
-D:\cursuri\An4\DATC\CURS\Curs1\Hal.Client\Hal.Client\obj\Debug\Hal.Client.exe
-D:\cursuri\An4\DATC\CURS\Curs1\Hal.Client\Hal.Client\obj\Debug\Hal.Client.pdb

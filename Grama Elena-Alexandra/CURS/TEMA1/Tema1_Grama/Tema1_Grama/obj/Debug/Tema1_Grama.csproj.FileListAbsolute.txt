@@ -1,9 +1,0 @@
-D:\an4\DATC\Curs\Tema1\Tema1_Grama\Tema1_Grama\bin\Debug\Tema1_Grama.exe.config
-D:\an4\DATC\Curs\Tema1\Tema1_Grama\Tema1_Grama\bin\Debug\Tema1_Grama.exe
-D:\an4\DATC\Curs\Tema1\Tema1_Grama\Tema1_Grama\bin\Debug\Tema1_Grama.pdb
-D:\an4\DATC\Curs\Tema1\Tema1_Grama\Tema1_Grama\bin\Debug\Newtonsoft.Json.dll
-D:\an4\DATC\Curs\Tema1\Tema1_Grama\Tema1_Grama\bin\Debug\Newtonsoft.Json.xml
-D:\an4\DATC\Curs\Tema1\Tema1_Grama\Tema1_Grama\obj\Debug\Tema1_Grama.csprojResolveAssemblyReference.cache
-D:\an4\DATC\Curs\Tema1\Tema1_Grama\Tema1_Grama\obj\Debug\Tema1_Grama.csproj.CoreCompileInputs.cache
-D:\an4\DATC\Curs\Tema1\Tema1_Grama\Tema1_Grama\obj\Debug\Tema1_Grama.exe
-D:\an4\DATC\Curs\Tema1\Tema1_Grama\Tema1_Grama\obj\Debug\Tema1_Grama.pdb

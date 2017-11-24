@@ -1,9 +1,0 @@
-E:\Vlad\An IV\Sem I\DATC\Curs\Tema1\UVTema1DATC\UVTema1DATC\bin\Debug\UVTema1DATC.exe.config
-E:\Vlad\An IV\Sem I\DATC\Curs\Tema1\UVTema1DATC\UVTema1DATC\bin\Debug\UVTema1DATC.exe
-E:\Vlad\An IV\Sem I\DATC\Curs\Tema1\UVTema1DATC\UVTema1DATC\bin\Debug\UVTema1DATC.pdb
-E:\Vlad\An IV\Sem I\DATC\Curs\Tema1\UVTema1DATC\UVTema1DATC\bin\Debug\Newtonsoft.Json.dll
-E:\Vlad\An IV\Sem I\DATC\Curs\Tema1\UVTema1DATC\UVTema1DATC\bin\Debug\Newtonsoft.Json.xml
-E:\Vlad\An IV\Sem I\DATC\Curs\Tema1\UVTema1DATC\UVTema1DATC\obj\Debug\UVTema1DATC.csprojResolveAssemblyReference.cache
-E:\Vlad\An IV\Sem I\DATC\Curs\Tema1\UVTema1DATC\UVTema1DATC\obj\Debug\UVTema1DATC.csproj.CoreCompileInputs.cache
-E:\Vlad\An IV\Sem I\DATC\Curs\Tema1\UVTema1DATC\UVTema1DATC\obj\Debug\UVTema1DATC.exe
-E:\Vlad\An IV\Sem I\DATC\Curs\Tema1\UVTema1DATC\UVTema1DATC\obj\Debug\UVTema1DATC.pdb
